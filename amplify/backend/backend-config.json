@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "musicallyconnected6b5ff0de": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
